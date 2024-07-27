@@ -6,6 +6,5 @@ accelerate
 mediapy
 ipywidgets
 einops
-timm
 gradio
-
+timm
