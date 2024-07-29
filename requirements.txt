@@ -4,7 +4,8 @@ diffusers==0.26.3
 transformers
 accelerate
 mediapy
+timm
 ipywidgets
 einops
 gradio
-timm
+
